@@ -1,0 +1,80 @@
+{
+  "hash" : "9ae4a52f46fbba0c959575303f697deb73e72d63",
+  "data" : [ {
+    "statistic" : {
+      "total" : 12,
+      "passed" : 7,
+      "pending" : 2,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 3
+    },
+    "time" : {
+      "start" : 1571359908260,
+      "stop" : 1571359982246,
+      "duration" : 73986
+    },
+    "name" : "total",
+    "type" : "TOTAL"
+  }, {
+    "name" : "defects",
+    "type" : "DEFECTS",
+    "data" : [ {
+      "count" : 3,
+      "message" : "TimeoutException: Expected condition failed: Webdriver waited for 15 seconds but still could not find the element therefore Timeout Exception has been thrown (tried for 15 second(s) with 1000 milliseconds interval)",
+      "status" : "BROKEN"
+    } ]
+  }, {
+    "name" : "xunit",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "Verify Invalid Login for multiple users | smith@technosoftacademy.io | test |",
+      "statistic" : {
+        "total" : 4,
+        "passed" : 3,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 1
+      }
+    }, {
+      "title" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |",
+      "statistic" : {
+        "total" : 4,
+        "passed" : 3,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 1
+      }
+    }, {
+      "title" : "Verify Invalid Login for multiple users | chris@technosoftacademy.io | abc123 |",
+      "statistic" : {
+        "total" : 4,
+        "passed" : 1,
+        "pending" : 2,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 1
+      }
+    } ]
+  }, {
+    "name" : "behaviors",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "Login feature",
+      "statistic" : {
+        "total" : 12,
+        "passed" : 7,
+        "pending" : 2,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 3
+      }
+    } ]
+  }, {
+    "name" : "environment",
+    "type" : "KEY_VALUE",
+    "data" : [ ]
+  } ]
+}

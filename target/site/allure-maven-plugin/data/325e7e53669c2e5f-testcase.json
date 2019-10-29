@@ -1,0 +1,53 @@
+{
+  "uid" : "325e7e53669c2e5f",
+  "name" : "When I enter mohammad@technosoftacademy.io into username text fields on home screen",
+  "title" : "When I enter mohammad@technosoftacademy.io into username text fields on home screen",
+  "time" : {
+    "start" : 1571359909096,
+    "stop" : 1571359909096,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "f352c86f2e688ddb",
+    "name" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |",
+    "title" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |"
+  }, {
+    "name" : "suite-name",
+    "value" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |"
+  }, {
+    "name" : "suite-title",
+    "value" : "Verify Invalid Login for multiple users | mohammad@technosoftacademy.io | test1234 |"
+  }, {
+    "name" : "thread",
+    "value" : "17077@MacBook-Pro-185.main(1)"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-185"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "feature",
+    "value" : "Login feature"
+  } ],
+  "parameters" : [ ]
+}

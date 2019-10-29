@@ -1,0 +1,135 @@
+{
+  "testCases" : [ {
+    "uid" : "1a9024e480bb36a3",
+    "name" : "Given I am on home page",
+    "title" : "Given I am on home page",
+    "time" : {
+      "start" : 1571359960629,
+      "stop" : 1571359960629,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f2b33eb475a509df",
+    "name" : "When I enter smith@technosoftacademy.io into username text fields on home screen",
+    "title" : "When I enter smith@technosoftacademy.io into username text fields on home screen",
+    "time" : {
+      "start" : 1571359961065,
+      "stop" : 1571359961065,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "2b1b8efae9d543ba",
+    "name" : "And I enter test into password text fields on home screen",
+    "title" : "And I enter test into password text fields on home screen",
+    "time" : {
+      "start" : 1571359961188,
+      "stop" : 1571359961188,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "fe225a15bf983e3e",
+    "name" : "Then I verify that i am an invalid login page",
+    "title" : "Then I verify that i am an invalid login page",
+    "time" : {
+      "start" : 1571359982244,
+      "stop" : 1571359982246,
+      "duration" : 2
+    },
+    "severity" : "NORMAL",
+    "status" : "BROKEN"
+  }, {
+    "uid" : "fec66880f385a841",
+    "name" : "Given I am on home page",
+    "title" : "Given I am on home page",
+    "time" : {
+      "start" : 1571359934488,
+      "stop" : 1571359934488,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "cfc243f2fed56106",
+    "name" : "When I enter chris@technosoftacademy.io into username text fields on home screen",
+    "title" : "When I enter chris@technosoftacademy.io into username text fields on home screen",
+    "time" : {
+      "start" : 1571359955574,
+      "stop" : 1571359955575,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "BROKEN"
+  }, {
+    "uid" : "220d928a563fb6b7",
+    "name" : "And I enter abc123 into password text fields on home screen",
+    "title" : "And I enter abc123 into password text fields on home screen",
+    "time" : {
+      "start" : 1571359955579,
+      "stop" : 1571359955580,
+      "duration" : 1
+    },
+    "severity" : "NORMAL",
+    "status" : "PENDING"
+  }, {
+    "uid" : "e30fedc3304e4670",
+    "name" : "Then I verify that i am an invalid login page",
+    "title" : "Then I verify that i am an invalid login page",
+    "time" : {
+      "start" : 1571359955581,
+      "stop" : 1571359955581,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PENDING"
+  }, {
+    "uid" : "69fad10c23b07705",
+    "name" : "Given I am on home page",
+    "title" : "Given I am on home page",
+    "time" : {
+      "start" : 1571359908260,
+      "stop" : 1571359908292,
+      "duration" : 32
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "325e7e53669c2e5f",
+    "name" : "When I enter mohammad@technosoftacademy.io into username text fields on home screen",
+    "title" : "When I enter mohammad@technosoftacademy.io into username text fields on home screen",
+    "time" : {
+      "start" : 1571359909096,
+      "stop" : 1571359909096,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4f1e679fae30d5b9",
+    "name" : "And I enter test1234 into password text fields on home screen",
+    "title" : "And I enter test1234 into password text fields on home screen",
+    "time" : {
+      "start" : 1571359909316,
+      "stop" : 1571359909316,
+      "duration" : 0
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "bc3959e6b6b45ad9",
+    "name" : "Then I verify that i am an invalid login page",
+    "title" : "Then I verify that i am an invalid login page",
+    "time" : {
+      "start" : 1571359930437,
+      "stop" : 1571359930459,
+      "duration" : 22
+    },
+    "severity" : "NORMAL",
+    "status" : "BROKEN"
+  } ]
+}

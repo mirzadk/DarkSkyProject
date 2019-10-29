@@ -1,0 +1,53 @@
+{
+  "uid" : "2b1b8efae9d543ba",
+  "name" : "And I enter test into password text fields on home screen",
+  "title" : "And I enter test into password text fields on home screen",
+  "time" : {
+    "start" : 1571359961188,
+    "stop" : 1571359961188,
+    "duration" : 0
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "2de7f6455285aedc",
+    "name" : "Verify Invalid Login for multiple users | smith@technosoftacademy.io | test |",
+    "title" : "Verify Invalid Login for multiple users | smith@technosoftacademy.io | test |"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Verify Invalid Login for multiple users | smith@technosoftacademy.io | test |"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "17077@MacBook-Pro-185.main(1)"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-185"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "feature",
+    "value" : "Login feature"
+  }, {
+    "name" : "suite-title",
+    "value" : "Verify Invalid Login for multiple users | smith@technosoftacademy.io | test |"
+  }, {
+    "name" : "story",
+    "value" : "Verify Invalid Login for multiple users | smith@technosoftacademy.io | test |"
+  } ],
+  "parameters" : [ ]
+}
